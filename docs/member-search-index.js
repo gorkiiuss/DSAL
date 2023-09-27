@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.github.gorkiiuss.dsal","c":"DSAL","l":"DSAL()","u":"%3Cinit%3E()"},{"p":"com.github.gorkiiuss.dsal","c":"DSAL","l":"getVersion()"},{"p":"com.github.gorkiiuss.dsal","c":"DSAL","l":"MAJOR_VERSION"},{"p":"com.github.gorkiiuss.dsal","c":"DSAL","l":"MINOR_VERSION"},{"p":"com.github.gorkiiuss.dsal","c":"DSAL","l":"PATCH_VERSION"}];updateSearchResults();
