@@ -75,7 +75,7 @@ public class ReadmeCode {
 }
 ````
 
-For more information go to [the project documentation](https://gorkiiuss.github.io/dsal)
+For more information go to [the project documentation](https://gorkiiuss.github.io/DSAL)
 
 ## Credits
 Original idea by gorkiiuss and created by the community.
